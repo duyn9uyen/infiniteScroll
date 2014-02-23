@@ -1,0 +1,13 @@
+diff a/InfiniteScroll/Views/Home/Index.cshtml b/InfiniteScroll/Views/Home/Index.cshtml	(rejected hunks)
+@@ -3,7 +3,11 @@
+  }
+  
+  <script type="text/javascript">
+++<<<<<<< HEAD
+ +//This is a test
+++=======
++ //This only seems to work if your browser window is small enough to have a scrollbar
+++>>>>>>> added comment - changed back to 2010
+      var page = 0;
+      var _inCallback = false;
+  
