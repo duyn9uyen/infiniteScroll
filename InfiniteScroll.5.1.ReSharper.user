@@ -1,0 +1,140 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/f:Web.config" caret="1328" fromTop="16" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Views/d:Shared/f:_Layout.cshtml" caret="1101" fromTop="29" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Views/d:Account/f:LogOn.cshtml" caret="0" fromTop="0" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Controllers/f:ImageController.cs" caret="594" fromTop="23" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Views/d:Home/f:Index.cshtml" caret="43" fromTop="4" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Views/d:Shared/f:_Products.cshtml" caret="578" fromTop="13" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Controllers/f:HomeController.cs" caret="525" fromTop="4" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Controllers/f:HomeController.cs" caret="1402" fromTop="36" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Controllers/f:HomeController.cs" caret="1402" fromTop="8" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Views/d:Shared/f:_Products.cshtml" caret="72" fromTop="4" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Views/d:Shared/f:_Products.cshtml" caret="72" fromTop="4" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Views/d:Shared/f:_Products.cshtml" caret="72" fromTop="17" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Views/d:Shared/f:_Products.cshtml" caret="578" fromTop="32" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Views/d:Shared/f:_Products.cshtml" caret="578" fromTop="31" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Views/d:Home/f:Index.cshtml" caret="959" fromTop="11" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Views/d:Home/f:Index.cshtml" caret="957" fromTop="8" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Views/d:Home/f:Index.cshtml" caret="911" fromTop="18" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Views/d:Home/f:Index.cshtml" caret="41" fromTop="4" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Views/d:Home/f:Index.cshtml" caret="700" fromTop="29" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Views/d:Home/f:Index.cshtml" caret="154" fromTop="4" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Views/d:Home/f:Index.cshtml" caret="875" fromTop="30" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Views/d:Home/f:Index.cshtml" caret="488" fromTop="8" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Views/d:Home/f:Index.cshtml" caret="41" fromTop="3" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Views/d:Shared/f:_Layout.cshtml" caret="516" fromTop="13" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Views/d:Shared/f:_Layout.cshtml" caret="1101" fromTop="29" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Controllers/f:HomeController.cs" caret="280" fromTop="3" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Views/d:Shared/f:_Products.cshtml" caret="523" fromTop="11" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Controllers/f:HomeController.cs" caret="1395" fromTop="32" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Controllers/f:HomeController.cs" caret="33" fromTop="0" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Controllers/f:ImageController.cs" caret="0" fromTop="0" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Controllers/f:HomeController.cs" caret="1395" fromTop="25" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Controllers/f:HomeController.cs" caret="1395" fromTop="36" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Controllers/f:ImageController.cs" caret="138" fromTop="6" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Controllers/f:ImageController.cs" caret="584" fromTop="21" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Views/d:Shared/f:_Products.cshtml" caret="44" fromTop="1" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Views/d:Shared/f:_Products.cshtml" caret="578" fromTop="13" />
+      <File id="D5CF97EB-BB95-4BD6-B38A-ECC2EF69166A/d:Views/d:Shared/f:_Products.cshtml" caret="113" fromTop="6" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="int" priority="1" />
+      <Item value="var" priority="1" />
+      <Item value="AdventureWorksEntities`0" priority="0" />
+      <Item value="new" priority="2" />
+      <Item value="AdventureWorksEntities" priority="0" />
+      <Item value="_data" priority="7" />
+      <Item value="GetPaginatedProducts`0" priority="1" />
+      <Item value="foreach" priority="1" />
+      <Item value="Product`0" priority="3" />
+      <Item value="products" priority="1" />
+      <Item value="IEnumerable" priority="0" />
+      <Item value="XmlSiteMapProvider`0" priority="0" />
+      <Item value="x" priority="2" />
+      <Item value="List" priority="0" />
+      <Item value="List&lt;Product&gt;" priority="0" />
+      <Item value="ProductPhoto`0" priority="0" />
+      <Item value="ProductProductPhoto`0" priority="0" />
+      <Item value="id" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="DateTime`0" priority="0" />
+      <Item value="listing" priority="3" />
+      <Item value="else" priority="0" />
+      <Item value="product" priority="0" />
+      <Item value="FileContentResult`0" priority="0" />
+      <Item value="byte" priority="0" />
+      <Item value="recordsPerPage" priority="0" />
+      <Item value="Convert`0" priority="0" />
+      <Item value="public" priority="1" />
+      <Item value="ActionResult`0" priority="1" />
+      <Item value="return" priority="0" />
+      <Item value="View`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:InfiniteScroll.AdventureWorksEntities">
+      <Item value="Products" priority="7" />
+      <Item value="ProductProductPhotoes" priority="0" />
+      <Item value="ProductPhotoes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="ToList`1" priority="0" />
+      <Item value="Indexer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Objects.ObjectSet`1">
+      <Item value="Where`0" priority="2" />
+      <Item value="Take`1" priority="0" />
+      <Item value="OrderBy`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:InfiniteScroll.ProductProductPhoto">
+      <Item value="ProductID" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="FirstOrDefault`1" priority="0" />
+      <Item value="SingleOrDefault`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:InfiniteScroll.ProductPhoto">
+      <Item value="ThumbNailPhoto" priority="1" />
+      <Item value="ProductPhotoID" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@InfiniteScroll.ProductProductPhoto">
+      <Item value="CreateProductProductPhoto`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Today" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:InfiniteScroll.Product">
+      <Item value="ProductProductPhotoes" priority="2" />
+      <Item value="Name" priority="0" />
+      <Item value="ListPrice" priority="0" />
+      <Item value="Color" priority="0" />
+      <Item value="ProductLine" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToDecimal`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
